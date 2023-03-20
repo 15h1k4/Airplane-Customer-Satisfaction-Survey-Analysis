@@ -8,4 +8,4 @@
 
 **Results:** Satisfying first time flyers requirements will help airline company in the longer run as they have shown more dissatisfaction. Economy an Economy Plus should be given immediate attention since the satisfaction level of these passengers are very low. Improving Wifi services and online website/app's User Interface and glitches would increase the satisfaction rate from the age group who are dissappointed.
 
-**Checkout the dashboard:** https://app.powerbi.com/view r=eyJrIjoiMTUwMzJiZDgtZjAyYS00M2IyLThhNGYtNTM2OThjMzUyM2NkIiwidCI6ImU4NzFhNmExLTUxNzItNGI5ZS1hODNmLTk4NDI2MGIxNTBlYiJ9
+**Checkout the dashboard:** https://app.powerbi.com/view?r=eyJrIjoiMTUwMzJiZDgtZjAyYS00M2IyLThhNGYtNTM2OThjMzUyM2NkIiwidCI6ImU4NzFhNmExLTUxNzItNGI5ZS1hODNmLTk4NDI2MGIxNTBlYiJ9
